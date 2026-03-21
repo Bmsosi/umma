@@ -61,7 +61,7 @@ export default function SiteFooter({ onNavigate }) {
 
       <div className="footer-legal-row">
         <span>
-          &copy; {new Date().getFullYear()} Umma. All rights reserved.
+          &copy;{new Date().getFullYear()} Umma. All rights reserved.
         </span>
       </div>
     </footer>

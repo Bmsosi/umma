@@ -8,18 +8,28 @@ export default function AboutPage() {
           بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
         </p>
         <p className="hero-ayah-text">
-          <strong>Quran 16:97:</strong> “Whoever does righteousness... We will surely cause them
-          to live a good life.”
+          مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ
+          فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ
+          أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ٩٧
+        </p>
+        <p className="hero-ayah-text">
+          <strong>Quran 16:97:</strong> “Whoever does good, whether male or
+          female, and is a believer, We will surely bless them with a good life,
+          and We will certainly reward them according to the best of their
+          deeds.”
         </p>
       </section>
 
       <section className="hero">
         <div className="hero-copy">
           <p className="eyebrow">Umma Community</p>
-          <h1>People helping people through faith, care, and shared service.</h1>
+          <h1>
+            People helping people through faith, care, and shared service.
+          </h1>
           <p>
-            Umma is a community-centered website created to connect people, support one another,
-            and provide meaningful services for individuals, families, and the wider community.
+            Umma is a community-centered website created to connect people,
+            support one another, and provide meaningful services for
+            individuals, families, and the wider community.
           </p>
           <div className="hero-actions">
             <a className="button button-primary" href="#services">
@@ -55,5 +65,5 @@ export default function AboutPage() {
         ))}
       </section>
     </div>
-  )
+  );
 }
