@@ -56,7 +56,7 @@ export default function SiteFooter({ onNavigate }) {
 
       <div className="footer-bottom">
         <span>Umma Community Support Network</span>
-        <span>summa2023@gmail.com</span>
+        <span>summa112023@gmail.com</span>
       </div>
 
       <div className="footer-legal-row">
