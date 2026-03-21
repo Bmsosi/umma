@@ -8,7 +8,6 @@ import umma7 from '../../umma7.png'
 import umma8 from '../../umma8.png'
 
 export const navigation = [
-  {/* Menu bar list items */},
   { id: 'about', label: 'About' },
   { id: 'services', label: 'Services' },
   { id: 'activities', label: 'Activities' },
