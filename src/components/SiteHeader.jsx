@@ -36,7 +36,7 @@ export default function SiteHeader({ page, onNavigate }) {
         <img className="brand-mark" src={ummaLogo} alt="Umma logo" />
         <div>
           <strong>Umma</strong>
-          <small>Community Support Socity</small>
+          <small>Community Support Society</small>
         </div>
       </a>
 
