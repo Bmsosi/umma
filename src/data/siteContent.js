@@ -19,7 +19,7 @@ export const navigation = [
 export const aboutSections = [
   {
     title: 'Who We Are',
-    text: 'Umma is a caring community built around service, faith, and belonging. We bring people together, support families through important moments in life, and create spaces where every person can feel seen, welcomed, and valued.',
+    text: 'Umma is a caring community built around prayer, faith, and belonging. We bring people together, support families through important and hard moments in life, and create spaces where every person can feel seen, welcomed, and valued.',
   },
   {
     title: 'Our Vision',
@@ -27,12 +27,12 @@ export const aboutSections = [
   },
   {
     title: 'Umma Support',
-    text: 'Supporting Umma means helping sustain gatherings, educational programs, community care, and future projects. Community members can support by volunteering, donating, sponsoring activities, and sharing our mission with others.',
+    text: 'Supporting Umma means helping sustain Sunat of our prophet Mohammad (S.A.W), educational programs, community care, and future projects. Community members can support by volunteering, donating, sponsoring activities, and sharing our mission with others.',
   },
 ]
 
 export const services = [
-  'Celebration of Life',
+  'Eid Celebration ',
   'Ramadan',
   'Quran and Islam Education',
   'Youth Gathering',

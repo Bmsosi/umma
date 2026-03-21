@@ -2,7 +2,7 @@ import { useState } from 'react'
 import SectionTitle from '../components/SectionTitle'
 import { donationOptions } from '../data/siteContent'
 
-const ETRANSFER_EMAIL = 'donations@umma.ca'
+const ETRANSFER_EMAIL = 'suma2023@gmail.com'
 
 export default function DonatePage() {
   const [selectedOption, setSelectedOption] = useState(donationOptions[0])
