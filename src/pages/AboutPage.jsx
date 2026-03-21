@@ -13,8 +13,7 @@ export default function AboutPage() {
           أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ ٩٧
         </p>
         <p className="hero-ayah-text">
-          <strong>Quran 16:97:</strong> “Whoever does good, whether male or
-          female, and is a believer, We will surely bless them with a good life,
+          <strong>Quran 16:97:</strong> “Whoever does good, and is a believer, We will surely bless them with a good life,
           and We will certainly reward them according to the best of their
           deeds.”
         </p>
