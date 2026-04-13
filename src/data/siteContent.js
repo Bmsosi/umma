@@ -89,7 +89,7 @@ export const fundraisingProjects = [
     text: 'We are raising support to improve prayer spaces, accessibility, and essential facilities for the community.',
   },
   {
-    title: 'Education Program Fund',
+    title: 'Education Program Support',
     text: 'This fundraiser helps sustain Quran classes, Islamic studies, youth learning resources, and community teachers.',
   },
   {
