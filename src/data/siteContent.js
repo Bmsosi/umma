@@ -93,7 +93,7 @@ export const fundraisingProjects = [
     text: 'This fundraiser helps sustain Quran classes, Islamic studies, youth learning resources, and community teachers.',
   },
   {
-    title: 'Community Care Support',
+    title: 'Operational Support',
     text: 'Funds go toward helping families in need, funeral support, celebration-of-life gatherings, and emergency assistance.',
   },
 ]
